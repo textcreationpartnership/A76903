@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloudy newes from the East-Indies: being a true relation, and perfect abstract of the cruel, barbarous, and inhumane proceedings of the Dutch-men against the English at Amboyna: ... the unjust tryall of the English marchants and factors: their examinations and confessions: the bloudy sentence pronounced against them: and the manner how Capt. Towerson, Mr. Tompson, Mr. Johnson, Mr. Beomont, Mr. Clerk, and divers others, were hang'd up by the hands on a large door, where they were made fast upon two iron staples, and their hands and legs stretched asunder; as also burning them with lighted torches under their armpits, &amp; with lighted candles in the bottom of their feet, under the elbows, and in the palm of their hands. Then they bound a cloth about their necks and faces very close, and powring water upon their heads, till the cloth was full up to the nostrils, stifled them, forcing their eyes to start of their heads; their cheekes to seem like great bladders; and each mans body to swell as big as three. With their speeches at the place of execution; at which instant a great darkness arose. / These particulars are averred by Mr Ramsey, a merchant; an eye-witness of their martyrdoms; who desires the publishing thereof throughout all England. Signed, James Ramsey.</title>
+            <author>Ramsey, James, merchant.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76903</idno>
+            <idno type="STC">Wing B3281</idno>
+            <idno type="STC">Thomason E650_11</idno>
+            <idno type="STC">ESTC R205817</idno>
+            <idno type="EEBO-CITATION">99865079</idno>
+            <idno type="PROQUEST">99865079</idno>
+            <idno type="VID">166011</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76903)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166011)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E650[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloudy newes from the East-Indies: being a true relation, and perfect abstract of the cruel, barbarous, and inhumane proceedings of the Dutch-men against the English at Amboyna: ... the unjust tryall of the English marchants and factors: their examinations and confessions: the bloudy sentence pronounced against them: and the manner how Capt. Towerson, Mr. Tompson, Mr. Johnson, Mr. Beomont, Mr. Clerk, and divers others, were hang'd up by the hands on a large door, where they were made fast upon two iron staples, and their hands and legs stretched asunder; as also burning them with lighted torches under their armpits, &amp; with lighted candles in the bottom of their feet, under the elbows, and in the palm of their hands. Then they bound a cloth about their necks and faces very close, and powring water upon their heads, till the cloth was full up to the nostrils, stifled them, forcing their eyes to start of their heads; their cheekes to seem like great bladders; and each mans body to swell as big as three. With their speeches at the place of execution; at which instant a great darkness arose. / These particulars are averred by Mr Ramsey, a merchant; an eye-witness of their martyrdoms; who desires the publishing thereof throughout all England. Signed, James Ramsey.</title>
+                  <author>Ramsey, James, merchant.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb. 12th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dutch --  Indonesia --  Early works to 1800.</term>
+               <term>British --  Indonesia --  Early works to 1800.</term>
+               <term>Ambon Island (Indonesia) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166011:1" rendition="simple:additions"/>
+            <p>BLOUDY NEWES FROM THE EAST-INDIES:</p>
+            <p>Being a true Relation, and perfect Abſtract of the cruel, barbarous, and inhumane proceedings of the <hi>Dutch-men</hi> againſt the <hi>Engliſh</hi> at <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>boyna:</hi> With a Diſ<g ref="char:EOLhyphen"/>covery of the <hi>Hollanders</hi> pretended-plot: The unjuſt Tryall of the Engliſh Marchants and Factors: Their Examinations and Confeſſions: The bloudy Sentence pronounced againſt them: And the manner how Capt. <hi>Towerſon,</hi> Mr. <hi>Tompſon,</hi> Mr. <hi>Johnſon,</hi> Mr. <hi>Beomont,</hi> Mr. <hi>Clerk,</hi> and divers others, were hang'd up by the hands on a large Door, where they were made faſt upon two Iron Staples, and their hands and legs ſtretched aſunder; As alſo burning them with lighted Torches under their Armpits, &amp; with lighted Candles in the bottom of their Feet, under the Elbows, and in the palm of their hands. Then they bound a Cloth about their Necks and Faces very cloſe, and powring water upon their Heads, till the Cloth was full up to the Noſtrils, ſtifled them, forcing their Eyes to ſtart out of their heads; their Cheekes to ſeem like great Bladders; and each mans body to ſwell as big as three. With their Speeches at the place of Execu<g ref="char:EOLhyphen"/>tion; At which inſtant a great darkneſs aroſe.</p>
+            <p>
+               <hi>THeſe particulars are averred by</hi> M<hi rend="sup">r</hi> Ramſey, <hi>a Merchant; an Eye-witneſs of their Martyrdoms; who deſires the publiſhing thereof through<g ref="char:EOLhyphen"/>out all</hi> England. Signed, JAMES RAMSEY.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Horton,</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166011:2"/>
+            <pb n="3" facs="tcp:166011:2"/>
+            <head>Bloudy Newes for England: Or a true Relation of the unjuſt, cruell, barbarous, and inhumane proceedings of the Dutch men againſt the Engliſh at Amboyna in the Eaſt-Indies: With the manner how they hoiſed them up by the hands with a cord on a large dore, where they made them faſt upon 2. ſtaples of iron, hailing their Hands one from the other as wide as they could ſtretch; burning them with lighted Torches under the Arm-pits, and alſo bound a cloth about their Neck and face ſo cloſe, that powring water up<g ref="char:EOLhyphen"/>on their heads, ſtifled them, forcing their eyes to ſtart out of their heads, and their bodies to ſwel as big as three.</head>
+            <p>BY an Expreſs from <hi>Holland</hi> it is certified, That there are Propoſitions to be ſent to the Parliament of <hi>England,</hi> to
+<pb n="4" facs="tcp:166011:3"/>
+this effect, <hi>viz.</hi> 1 <hi>The requiring reſtitution of their ſhips.</hi> 2 <hi>The permitting of the Engliſh Cavaliers to ſtay in</hi> Holland. 3 <hi>The Sea to be free, and a Navy of</hi> 150 <hi>Sayl to be kept to juſtifie the proceedings of the Dutch on the Brittiſh Seas.</hi> Theſe are bold Propoſitions indeed; And yet not the leaſt mention of gi<g ref="char:EOLhyphen"/>ving ſatisfaction for their bloudy Maſſacre at <hi>Amboyna</hi> in the <hi>Eaſt-Indies:</hi> the like, not to be parallel'd; as will ap<g ref="char:EOLhyphen"/>pear by the enſuing Relation, <hi>VIZ.</hi>
+            </p>
+            <p>THe <hi>Governour</hi> of <hi>Amboyna</hi> having contrived a way how to be rid of the Engliſh, by pretending a conſpiracie to ſurpriſe the Ca<g ref="char:EOLhyphen"/>ſtle, ſent for Cap. <hi>Towerſon,</hi> M<hi rend="sup">r</hi> 
+               <hi>Tompſon,</hi> and the reſt of the Engliſh Marchants and Factors, and committed them to ſeveral priſons, tor<g ref="char:EOLhyphen"/>tu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing them moſt inhumanely, and binding them in Irons; Which being done, he took the Merchandize of the Engliſh Company into his own cuſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dy, and ſeized on all their Cheſts Books Writings, and other things. In the mean time, the Governour ſtudied what <hi>tortures</hi> to inflict upon them: And firſt he ſent for M<hi rend="sup">r</hi> 
+               <hi>Beomont,</hi> and M<hi rend="sup">r</hi> 
+               <hi>John<g ref="char:EOLhyphen"/>ſon,</hi> who being come into the C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtle, <hi>Beomont</hi> was left with a guard in the Hall, and <hi>Johnſon</hi> was taken into another room: Where, by and by, <hi>Beomont</hi> heard him cry out very pitti ully; then to be quiet for a little while, and loud again. At laſt, after he had been about an hour in Examination, he was brought forth wailing and lamenting, all wet, and cruelly burnt in divers parts of his body, and ſo laid aſide in a by-place of the Hall, with a ſoldier to watch him that he ſhould ſpeak with no body. Then was M<hi rend="sup">r</hi> 
+               <hi>Tompſon</hi> brought to examination, and <hi>Beomont</hi> being in the Hall heard him roar moſt lamentably, and many times. Next, was M<hi rend="sup">r</hi> 
+               <hi>Beomont</hi> called in, and being demanded many things, all which he denied with deep Oaths and proteſtations, was made faſt to be tortured, a cloth tied about his Neck, and two men ready with their Jars of water to be poured on his head. Then was M<hi rend="sup">r</hi> 
+               <hi>Colſon</hi> brought in, being newly arrived from <hi>Hitto,</hi> and was the ſame day brought to the torture; who, for fear of the pain where<g ref="char:EOLhyphen"/>with he ſaw others come out in ſuch a caſe, that their eyes were al<g ref="char:EOLhyphen"/>moſt blown out of their heads with the torment of water, choſe ra<g ref="char:EOLhyphen"/>ther to confeſſe all they asked him, and ſo was quickly diſmiſſed, coming out weeping, lamenting, and proteſting his innocencie.</p>
+            <p>Next, was M<hi rend="sup">r</hi> 
+               <hi>Clerk</hi> brought in, who was tortured with fire and
+<pb n="5" facs="tcp:166011:3"/>
+water, by the ſpace of two hours. The manner of his torture, and the reſt, were as followeth. Firſt, they hoiſed him up by the hands, with a cord on a large dore, where they made him faſt upon two ſtaples of <hi>Iron,</hi> fixt on both ſides at the top of the door poſt, haling his hands one from the other as wide as they could ſtretch. Being thus made faſt, his feet hung ſome two foot from the ground; which alſo they ſtretch aſunder as far as they would reech, and ſo made them faſt beneath unto the dore-trees on each ſide. Then they bound a Cloth about his neck and face ſo cloſe, that little or no water could go by. That done, they powred the water ſoftly upon his head, until the Cloth was full up to the mouth and noſtrils, and ſomewhat higher; ſo that he could not draw breath, but he muſt withall ſuck in the water: which being ſtill continued to be pow<g ref="char:EOLhyphen"/>red in ſoftly, forced all his inward parts, come out of his noſe, eares, and eyes, and often, as it were ſtifling and choaking him, at length took away his breath, and brought him to a ſwoun or fainting. Then they took him quickly down: and made him vomit up the water. Being a little recovered, they tied him up again, and pour<g ref="char:EOLhyphen"/>ed in the water as before. In this manner they handled him 3. or 4. ſeveral times with water, till his body was ſwel'd twice or thrice as big as before, his cheeks like great Bladders, and his eyes ſtaring and ſtrutting out beyond his forehead: yet all this he bare, without confeſſing any thing; inſomuch, as the Fiſcal and tormentors revi<g ref="char:EOLhyphen"/>led him, ſaying, that he was a Devil, and no man, or ſurely was a Witch, at leaſt had ſome charm about him, or was enchanted, that he could bear ſo much. Wherefore they cut of his hair very ſhort, as ſudpoſing he had ſome Witchcraft hidd n therein. Afterwards they hoiſed him up again as before, and then burnt him with light<g ref="char:EOLhyphen"/>ed Candles in the bottom of his feet, until the fat dropt out the Candles; yet hen applied they freſh lights unto him. They burnt him alſo under the elbows, and in the palms of the hands; likewiſe under the Arm-pits until his laterels might evidently be ſeen.</p>
+            <p>Having thus martyred this poor man, they ſent him out by four Blacks; who carried him between them to a Dangeon, where he lay 5. or 6. dayes without any Chyrurgion to dreſs him, until (his fleſh being purified) great Maggots dropt and crept from him in a moſt loathſom and noiſom manner. Thus they finiſhed their Sab<g ref="char:EOLhyphen"/>bath dayes work.</p>
+            <p>
+               <pb n="6" facs="tcp:166011:4"/>The 25. of <hi>February,</hi> old ſtile, all the priſoners, as well the <hi>Engliſh</hi> as the <hi>Portugal,</hi> and the <hi>Iaponers,</hi> were brought into the great Hall of the Caſtle, and there were ſolemnly condemned, except <hi>Iohn Powel, Ephraim Ramſey, Iohn Sadler,</hi> and <hi>Thomas Ladbrock,</hi> formerly acquit<g ref="char:EOLhyphen"/>ted as aforeſaid.</p>
+            <p>Captain <hi>Towerſon</hi> having been (during all his impriſonment) kept apart from the reſt, ſo that none of them could come to ſpeak with him; writ much in his Chamber (as ſome of the <hi>Dutch</hi> report,) but all was ſuppreſſed, ſave only a Bill of debt, which one <hi>Thomas John<g ref="char:EOLhyphen"/>ſon,</hi> a free <hi>Burther</hi> got of him by favour from his <hi>Keepers</hi> for acknow<g ref="char:EOLhyphen"/>ledgement, that the <hi>Engliſh</hi> Company owed him a certain ſum of money. In the end of this Bill he writ theſe words: <hi>Firmed by the Firm of me</hi> Gabriel Towerſon, <hi>now appointed to die guil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leſs of any thing that can be juſtly laid to my charge. God forgive them their guilt; and receive me to his mercy. Amen.</hi> This Bill being brought to M<hi rend="sup">r</hi>. <hi>Welden</hi> the <hi>Engliſh</hi> Agent at <hi>Banda,</hi> he paid the money, and received in the ac<g ref="char:EOLhyphen"/>knowledgment.</p>
+            <p>
+               <hi>Wil. Griggs</hi> (who had before accuſed Capt. <hi>Towerſon</hi>) writ theſe words following in his <hi>Table-book: We, whoſe Names are here ſpecifi<g ref="char:EOLhyphen"/>ed,</hi> John Beomont, <hi>Merchant of</hi> Loho, Wil. Griggs, <hi>Merchant of La<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>ca,</hi> Abel Price, <hi>Chyrurgion of</hi> Amboyna, Rob. Brown, <hi>Tailor, which do here lie priſoners in the Ship</hi> Rotterdam, <hi>being apprehended for con<g ref="char:EOLhyphen"/>ſpiracy, for blowing up the Castle of</hi> Amboyna: <hi>we being judged to death this</hi> 5. <hi>of March,</hi> Anno 1622. <hi>which we through torment were conſtained to ſpeak that which we never meant, nor once imagined; the which we take upon our deaths and ſalvation, they tortured us with that extream torment of fire and water, that fleſh and blood could not endure: and this we take upon our deaths, that they have put us to death guiltleſs of our accuſation. So there<g ref="char:EOLhyphen"/>fore we deſire, that they that ſhall underſtand this; that our imployers may underſtand theſe wrongs, and that your ſelves would have a care to look to your ſelves: for their intent was to have brought you in alſo, they aske concerning you; which if they had tortured us, we muſt have confeſſed you alſo. And ſo farewel; written in the dark.</hi>
+            </p>
+            <p>This Table-book was afterwards delivered to M. <hi>Welden</hi> afore<g ref="char:EOLhyphen"/>named, by one that ſerved the <hi>Dutch.</hi>
+            </p>
+            <p>
+               <hi>Samuel Colſon</hi> alſo, another that accuſed Captain <hi>Towerſon,</hi> writ as followeth in the waſte leaves of a Book, wherein were bound toge<g ref="char:EOLhyphen"/>ther the Common-Prayers, the Pſalms, and the Catechiſme.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="7" facs="tcp:166011:4"/>
+                  <head>
+                     <hi>In one page thus.</hi> March 5. <hi>Stilo nove,</hi> being <hi>Sunday,</hi> aboard the <hi>Rotterdam,</hi> lying in Irons.</head>
+                  <p>UNderstand that I <hi>Samuel Colſon,</hi> late Factor of <hi>Hitto,</hi> was appre<g ref="char:EOLhyphen"/>hended for ſuſpicion of conſpiracy; and for any thing I know, muſt die for it: wherefore, having no better meanes to make my innocency known, have writ this in this Book, hoping ſome good <hi>Engliſh-man</hi> will ſee it. I do here upon my ſalvation, as I hope by his death and paſſion to have redemption for my ſins, that I am clear of all ſuch conſpircay; neither do <hi>I</hi> know any <hi>Eng<g ref="char:EOLhyphen"/>liſh-man</hi> guilty thereof, nor other Creature in the world. As this is true, God bleſſe me.</p>
+                  <closer>
+                     <signed>Samuel Colſon.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The 26. of <hi>Feb.</hi> the priſoners were all brought into the great Hall of the Caſtle, (except Cap. <hi>Towerſon</hi> and <hi>Emmanuel Tompſon</hi>) to be prepared for death by the Miniſters. The <hi>Japoners</hi> now all in gene<g ref="char:EOLhyphen"/>ral, as ſome of them had done before in particular, cryed out unto the <hi>Engliſh,</hi> ſaying I Oh you <hi>Engliſh-men,</hi> where did we ever in our lives eat with you, talk with you, or (to our remembrance) ſee you? The <hi>Engliſh</hi> anſwered, Why then have you accuſed us? The poor men, perceiving they were made believe each had accuſed others be<g ref="char:EOLhyphen"/>fore they had ſo done indeed; ſhewed them their tortured bodies, and ſaid, if a ſtone were thus burnt, would it not change his nature? how much more we that are fleſh and blood?</p>
+            <p>To theſe that remained in the Hall, come the <hi>Dutch</hi> Miniſters, who telling them how ſhort a time they had to live, admoniſhed and ex<g ref="char:EOLhyphen"/>horted them to make their true Confeſſions; for it was a dangerous and deſperate thing, to diſſemble at ſuch a time. The <hi>Engliſh</hi> ſtill profeſſed their innocency, and prayed the <hi>Miniſters</hi> that they might all receive the <hi>Sacrament,</hi> as a ſeal of the forgiveneſs of their ſins; and withall, thereby to confirm their laſt profeſſion of their innocency. But this would by no means be granted. Whereupon <hi>Samuel Colſon,</hi> ſaid thus unto the <hi>Miniſters;</hi> You manifeſt unto us the danger of diſ<g ref="char:EOLhyphen"/>ſimulation in this caſe. But tell us, if we ſuffer guiltleſs, being o<g ref="char:EOLhyphen"/>therwiſe alſo true believers in Chriſts Jeſus. What ſhall be our re<g ref="char:EOLhyphen"/>ward? The Preacher anſwered, by how much the clearer you are, ſo much the more glorious ſhall be your reſurrection. With that word, <hi>Colſon</hi> ſtarted up, imbraced the Preacher, and gave him his purſe, with ſuch money as he had in it, ſaying <hi>Domine,</hi> God bleſſe you: tell the Governour, I freely forgive him; and I intreat you, to exhort him to repent him of this bloody tragedy, wrought upon
+<pb n="8" facs="tcp:166011:5"/>
+us poor innocent ſouls. Here all the reſt of the <hi>Engliſh</hi> ſignified their conſent to this ſpeech. Then ſpake <hi>John Fardo</hi> to the reſt, in pre<g ref="char:EOLhyphen"/>ſence of the Miniſters, as followeth: My Countrey-men, and Bre<g ref="char:EOLhyphen"/>thren, all that are here with me condemned to die, I charge you all, as you will anſwer it at Gods judgement fear, if any of you be guil<g ref="char:EOLhyphen"/>ty on this matter, whereof we are condemned, diſcharge your Con<g ref="char:EOLhyphen"/>ſciences, and confeſs the truth for ſatisfaction of the World. Here<g ref="char:EOLhyphen"/>upon <hi>Samuel Colſon</hi> ſpake with a loud voice, ſaying, according to my innocency in this treaſon, ſo Lord pardon all the reſt of my ſins: and if I be guilty thereof, more or leſſe, let me never be partaker of thy heavenly joyes. At which words, every one of the reſt cryed Amen for me, Amen for me, good Lord. This done, each of them knowing whom he had accuſed, went one to another, begging for<g ref="char:EOLhyphen"/>givneſs for their falſe accuſation, being wrung from them by the fear or torture. And they all freely forgave one another: for none had been ſo falſly accuſed, but he himſelf had accuſed another as falſly. In particular, <hi>George Sharrock</hi> (who ſurvived to relate this nights paſſage) kneeled down to <hi>John Clark,</hi> whom he had accuſed of the tale at <hi>Hitto</hi> above-mentioned, and craved forgiveneſs at his hands. <hi>Clark</hi> freely forgave him, ſaying: How ſhould I look to be forgiven of God, if I ſhould not forgive you, having my ſelf ſo falſly accuſed Captain <hi>Towerſon,</hi> and others?</p>
+            <p>At the inſtant of the execution there aroſe a great darkneſs, with a ſudden and violent guſt of wind and tempeſt, whereby 2. of the <hi>Dutch</hi> Ships, riding in the Harbour, were driven from their An<g ref="char:EOLhyphen"/>chors, and with great labour and difficulty ſaved from the Rocks. Within a few days after, one <hi>Wil. Dunckin,</hi> who had told the Go<g ref="char:EOLhyphen"/>vernour, That <hi>Rob. Brown,</hi> the Engliſh Tailour, had told him the Engliſh ſhould have as much to do in the Caſtle of <hi>Amboyna,</hi> as the <hi>Dutch:</hi> This fellow coming upon an evening to the Grave where the <hi>Engliſh</hi> were buried, being all (ſaye Cap. <hi>Towerſon</hi>) in one pit, fell down upon the Grave; and having lie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there a while, roſe up again ſtark mad, and ſo continued 2. or 3. days together, and then died. Forthwith alſo fell a new ſickneſs at <hi>Amboyna,</hi> which ſwept a<g ref="char:EOLhyphen"/>wry about a thouſand people, <hi>Dutch</hi> and <hi>Amboyners:</hi> in the ſpace wherein, there uſually died not above 30. at other ſeaſons. Theſe ſigns were by the ſurviving <hi>Engliſh</hi> referred to the confident pre<g ref="char:EOLhyphen"/>diction of <hi>Emmanuel Tomſon</hi> above-named, and were by the <hi>Amboy<g ref="char:EOLhyphen"/>ners</hi> interpreted as a token of the wrath of God for this barbarous Tyranny of the <hi>Hollanders.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
